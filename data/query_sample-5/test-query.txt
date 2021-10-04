@@ -1,0 +1,389 @@
+<topics>
+
+<top>
+<num>437 </num>
+<title> deregulation, gas, electric </title>
+<desc> Description: 
+What has been the experience of residential utility
+customers following deregulation of gas and electric?
+</desc>
+<narr> Narrative: 
+Documents that discuss privatization of government-
+owned utilities alone are not relevant.  Also, not
+relevant are documents that discuss the deregulation 
+of utilities for commercial customers.
+</narr>
+</top>
+
+<top>
+<num>439 </num>
+<title> inventions, scientific discoveries </title>
+<desc> Description: 
+What new inventions or scientific discoveries have been
+made?  
+</desc>
+<narr> Narrative: 
+The word "new" in the description is defined as occurring
+in the 1990s.  Documents that indicate a "recent" 
+invention or scientific discovery are considered relevant.
+Discoveries made in astronomy or any scientific discoveries
+that are not patentable are not relevant.  
+</narr>
+</top>
+
+<top>
+<num>420 </num>
+<title> carbon monoxide poisoning </title>
+<desc> Description: 
+How widespread is carbon monoxide poisoning on 
+a global scale?
+</desc>
+<narr> Narrative: 
+Relevant documents will contain data on
+what carbon monoxide poisoning is, symptoms,
+causes, and/or prevention.  Advertisements for
+carbon monoxide protection products or services 
+are not relevant.  Discussions of auto emissions
+and air pollution are not relevant even though
+they can contain carbon monoxide.
+</narr>
+</top>
+
+<top>
+<num>445</num>
+<title> women clergy </title>
+<desc> Description: 
+What other countries besides the United States are considering 
+or have approved women as clergy persons?
+</desc>
+<narr> Narrative: 
+To be relevant, a document must indicate either a country 
+where a woman has been installed as clergy or a country
+that is considering such an installation.  The clergy position
+must be as church pastor rather than some other church capacity
+(e.g., nun or choir member). 
+</narr>
+</top>
+
+<top>
+<num>432 </num>
+<title> profiling, motorists, police </title>
+<desc> Description: 
+Do police departments use "profiling" to stop motorists?
+</desc>
+<narr> Narrative: 
+A relevant document will report or discuss police department 
+criteria for identifying motorists considered likely to be
+carrying contraband.  Documents discussing the detention of
+individuals by foreign security forces are not relevant.
+</narr>
+</top>
+
+<top>
+<num>416 </num>
+<title> Three Gorges Project </title>
+<desc> Description: 
+What is the status of The Three Gorges Project?
+</desc>
+<narr> Narrative: 
+A relevant document will provide the projected
+date of completion of the project, its estimated
+total cost, or the estimated electrical output of
+the the finished project.  Discussions of the
+social, political, or ecological impact of the
+project are not relevant.
+</narr>
+</top>
+
+<top>
+<num>419 </num>
+<title> recycle, automobile tires </title>
+<desc> Description: 
+What new uses have been developed for old
+automobile tires as a means of tire recycling?
+</desc>
+<narr> Narrative: 
+A relevant document must show advantageous uses of
+recycled tires, such as:  destructive distillation of 
+scrap rubber for valuable chemicals, reef building
+for fish habitats, filler or binder in asphalt
+roadway mixes, and burning in a controlled 
+environment for heat generation.  
+</narr>
+</top>
+
+<top>
+<num>417 </num>
+<title> creativity </title>
+<desc> Description: 
+Find ways of measuring creativity.
+</desc>
+<narr> Narrative: 
+Relevant items include definitions of creativity,
+descriptions of characteristics associated with
+creativity, and factors linked to creativity. 
+</narr>
+</top>
+
+<top>
+<num>415 </num>
+<title> drugs, Golden Triangle </title>
+<desc> Description: 
+What is known about drug trafficking in the
+"Golden Triangle", the area where Burma,
+Thailand and Laos meet?
+</desc>
+<narr> Narrative: 
+A relevant document will discuss drug
+trafficking in the Golden Triangle,
+including organizations that produce or
+distribute the drugs; international efforts
+to combat the traffic; or the quantities of
+drugs produced in the area.
+</narr>
+</top>
+
+<top>
+<num>431 </num>
+<title> robotic technology </title>
+<desc> Description: 
+What are the latest developments in robotic technology?
+</desc>
+<narr> Narrative: 
+A relevant document will contain information on 
+current applications of robotic technology.  Discussions
+of robotics research or simulations of robots are
+not relevant.
+</narr>
+</top>
+
+<top>
+<num>406 </num>
+<title> Parkinson's disease </title>
+<desc> Description: 
+What is being done to treat the symptoms of 
+Parkinson's disease and keep the patient 
+functional as long as possible?
+</desc>
+<narr> Narrative: 
+A relevant document identifies a drug or treatment 
+program utilized in patient care and provides 
+an indication of success or failure.
+</narr>
+</top>
+
+<top>
+<num>423 </num>
+<title> Milosevic, Mirjana Markovic </title>
+<desc> Description: 
+Find references to Milosevic's wife, Mirjana Markovic.
+</desc>
+<narr> Narrative: 
+Any mention of the Serbian president's wife is
+relevant, even if she is not named.  She may be referred to
+by her nickname, Mira.  A general mention of his family, 
+without specifying his wife, is not relevant. 
+</narr>
+</top>
+
+<top>
+<num>434 </num>
+<title> Estonia, economy </title>
+<desc> Description: 
+What is the state of the economy of Estonia?
+</desc>
+<narr> Narrative: 
+Documents that give concrete economic information
+such as economic statistics, entering economic unions
+and treaties, or monetary performance are relevant,
+as are discussions of economic issues such as 
+transportation or pollution.
+</narr>
+</top>
+
+<top>
+<num>449 </num>
+<title> antibiotics ineffectiveness </title>
+<desc> Description: 
+What has caused the current ineffectiveness of
+antibiotics against infections and what is
+the prognosis for new drugs?
+</desc>
+<narr> Narrative: 
+To be relevant, a document must discuss the reasons or 
+causes for the ineffectiveness of current antibiotics.
+Relevant documents may also include efforts by pharmaceutical
+companies and federal government agencies to find new cures, 
+updating current testing phases, new drugs being tested,
+and the prognosis for the availability of new and effective
+antibiotics. 
+</narr>
+</top>
+
+<top>
+<num>447 </num>
+<title> Stirling engine </title>
+<desc> Description: 
+What new developments and applications are there
+for the Stirling engine?
+</desc>
+<narr> Narrative: 
+Any discussion of new developments and applications of the
+Stirling engine (also known as the Stirling cycle) are relevant. 
+</narr>
+</top>
+
+<top>
+<num>448 </num>
+<title> ship losses </title>
+<desc> Description: 
+Identify instances in which weather was a main or contributing
+factor in the loss of a ship at sea.  
+</desc>
+<narr> Narrative: 
+Any ship loss due to weather is relevant, either in international
+or coastal waters.
+</narr>
+</top>
+
+<top>
+<num>444 </num>
+<title> supercritical fluids</title>
+<desc> Description: 
+What are the potential uses for supercritical fluids
+as an environmental protection measure?
+</desc>
+<narr> Narrative: 
+To be relevant, a document must indicate that the 
+fluid involved is achieved by a process of pressurization
+producing the supercritical fluid.
+</narr>
+</top>
+
+<top>
+<num>425 </num>
+<title> counterfeiting money </title>
+<desc> Description: 
+What counterfeiting of money is being done in
+modern times?
+</desc>
+<narr> Narrative: 
+Relevant documents must cite actual instances
+of counterfeiting.   Anti-counterfeiting measures by
+themselves are not relevant.
+</narr>
+</top>
+
+<top>
+<num>441 </num>
+<title> Lyme disease </title>
+<desc> Description: 
+How do you prevent and treat Lyme disease?
+</desc>
+<narr> Narrative: 
+Documents that discuss current prevention and
+treatment techniques for Lyme disease are
+relevant.  Reports of research on new
+treatments of the disease are also relevant.
+</narr>
+</top>
+
+<top>
+<num>430 </num>
+<title> killer bee attacks </title>
+<desc> Description: 
+Identify instances of attacks on humans by Africanized 
+(killer) bees.  
+</desc>
+<narr> Narrative: 
+Relevant documents must cite a specific instance of a human
+attacked by killer bees.  Documents that note migration patterns
+or report attacks on other animals are not relevant unless they
+also cite an attack on a human.
+</narr>
+</top>
+
+<top>
+<num>436 </num>
+<title> railway accidents </title>
+<desc> Description: 
+What are the causes of railway accidents throughout
+the world? 
+</desc>
+<narr> Narrative: 
+A relevant document provides data on railway accidents
+of any sort (i.e., locomotive, trolley, streetcar) where
+either the railroad system or the vehicle or pedestrian
+involved caused the accident.  Documents that discuss
+railroading in general, new rail lines, new technology
+for safety, and safety and accident prevention 
+are not relevant, unless an actual accident is described.  
+</narr>
+</top>
+
+<top>
+<num>421 </num>
+<title> industrial waste disposal </title>
+<desc> Description: 
+How is the disposal of industrial waste being accomplished
+by industrial management throughout the world? 
+</desc>
+<narr> Narrative: 
+Documents that discuss the disposal, storage, or management
+of industrial waste---both standard and hazardous---are
+relevant.  However, documents that discuss disposal or
+storage of nuclear or radioactive waste, or the illegal
+shipment or dumping of waste to avoid legal disposal
+methods are not relevant.
+</narr>
+</top>
+
+<top>
+<num>426 </num>
+<title> law enforcement, dogs </title>
+<desc> Description: 
+Provide information on the use of dogs worldwide for 
+law enforcement purposes.
+</desc>
+<narr> Narrative: 
+Relevant items include specific information on the
+use of dogs during an operation.  Training of dogs
+and their handlers are also relevant.  
+</narr>
+</top>
+
+<top>
+<num>410 </num>
+<title> Schengen agreement </title>
+<desc> Description: 
+Who is involved in the Schengen agreement to eliminate border
+controls in Western Europe and what do they hope to accomplish?
+</desc>
+<narr> Narrative: 
+Relevant documents will contain any information about the
+actions of signatories of the Schengen agreement such as:
+measures to eliminate border controls (removal of traffic
+obstacles, lifting of traffic restrictions); implementation
+of the information system data bank that contains unified
+visa issuance procedures; or strengthening of border controls
+at the external borders of the treaty area in exchange for 
+free movement at the internal borders.  Discussions of border 
+crossovers for business purposes are not relevant.
+</narr>
+</top>
+
+<top>
+<num>433 </num>
+<title> Greek, philosophy, stoicism </title>
+<desc> Description: 
+Is there contemporary interest in the Greek
+philosophy of stoicism?
+</desc>
+<narr> Narrative: 
+Actual references to the philosophy or philosophers, 
+productions of Greek stoic plays, and new "stoic" 
+artistic productions are all relevant.
+</narr>
+</top>
+
+</topics>
